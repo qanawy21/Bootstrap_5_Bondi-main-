@@ -67,7 +67,7 @@ open `index.html` in your browser
 Feel free to reach out or contribute:
 
 * 🧑‍💻 **Portfolio:** [Add Your Portfolio Link Here]
-* 🔗 **LinkedIn:** [[Add Your LinkedIn Link Here](https://www.linkedin.com/in/mahmoudalqanawy21/)]
+* 🔗 **LinkedIn:** [(https://www.linkedin.com/in/mahmoudalqanawy21/)]
 * 📧 **Email:** [mahmoudalqanawy21@gmail.com]
 
 If you'd like to contribute, feel free to fork the repo and submit a pull request!
